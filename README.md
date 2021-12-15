@@ -11,4 +11,4 @@ The [dataset](https://worldhappiness.report/ed/2019/) used is the 2019 World Hap
 
 ## Included files: 
 World_Happiness.csv: Raw data<br>
-World_Happiness_Notebook.ipynb: Notebook including code of analysis<br>
+World_Happiness_Notebook.ipynb: Notebook including commentary and code of analysis<br>
